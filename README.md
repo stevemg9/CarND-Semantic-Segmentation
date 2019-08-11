@@ -12,7 +12,8 @@ The best network that I trained used the following:
 * Epochs = 50
 * Learning Rate = 0.0001
 * Random Uniform Initialization: std = 0.01, mean = 0
-![](images/loss_b10_e50_RN_LR0001.png)
+* 
+![](images/loss_b10_e50_RN_LR00001.png)
 
 Some good examples from my network demonstrate that it is fairly good at distinguising road surfaces:
 ![](images/good_1.png)
